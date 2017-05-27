@@ -25,7 +25,7 @@ SECRET_KEY = 'bbb6m(gun-o-%hya^l=#-vz1g_@ee(dn_z)rd*+b#ji=_id)+%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tchela.pythonanywhere.com']
 
 
 # Application definition
